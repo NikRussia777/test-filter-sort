@@ -1,4 +1,4 @@
-# test-filter-sort
+# test-filtering-sort
 
 ## Project setup
 ```
