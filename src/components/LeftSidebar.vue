@@ -3,6 +3,7 @@
     <h3>
       Фильтрация по amount
     </h3>
+
     <label><input value="" type="radio" v-model="changeFilter"> Все</label>
     <label><input value="less" type="radio" v-model="changeFilter"> Меньше 0</label>
     <label><input value="more" type="radio" v-model="changeFilter"> Больше или равно 0 </label>
