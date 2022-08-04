@@ -7,13 +7,11 @@
     <label><input value="less" type="radio" v-model="changeFilter"> Меньше 0</label>
     <label><input value="more" type="radio" v-model="changeFilter"> Больше или равно 0 </label>
     <hr>
-
     <h3>
       Сортировка по amount
     </h3>
     <label><input type="checkbox" :checked="true" v-model="changeSort"> Сортировать по сумме</label>
     <hr>
-
     <h3>
       Кол-во сгенерированных итемов
     </h3>
