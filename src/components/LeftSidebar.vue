@@ -21,7 +21,6 @@
     <h3>
       Кол-во сгенерированных итемов
     </h3>
-
     <label><input type="number" v-model="arrayLength"></label>
     <label><input type="checkbox" v-model="isLocalDisabled">Заблокировать</label>
   </div>
