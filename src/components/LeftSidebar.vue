@@ -13,9 +13,7 @@
     <h3>
       Сортировка по amount
     </h3>
-
     <label><input type="checkbox" :checked="true" v-model="changeSort"> Сортировать по сумме</label>
-
     <hr>
     <h3>
       Кол-во сгенерированных итемов
